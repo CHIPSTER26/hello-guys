@@ -1,3 +1,2 @@
 # hello-guys
-just a practice
-I am here for GA
+just a practice I am here for GA
